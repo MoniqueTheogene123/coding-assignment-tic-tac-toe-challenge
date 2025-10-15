@@ -22,7 +22,7 @@ You’ll be making use of lists (arrays), and Python’s built-in functions like
 You can search for “Python read input” for help.
 The Python documentation is your friend.
 
-Helpful links
+## Helpful links
 <a href="https://www.python.org/downloads/" target="_blank">Download Python (Windows, macOS, and Linux) – python.org</a>
 
 <a href="https://code.visualstudio.com/docs/python/python-tutorial" target="_blank">Create a Python console application using Visual Studio Code – VS Code Docs</a>
