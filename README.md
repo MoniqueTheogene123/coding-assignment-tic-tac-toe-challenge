@@ -7,17 +7,10 @@
 * Two players take turns placing X’s and O’s on a 3x3 grid.
 * The win condition is the first player to get three across a column, down a row, or on either diagonal.
 
-## Helpful links
-* [Download Python (Windows, macOS, and Linux) – python.org](https://www.python.org/downloads/)
-
-* [Create a Python console application using Visual Studio Code – VS Code Docs](https://code.visualstudio.com/docs/python/python-tutorial)
-
-* [A Tour of Python – Python Tutorial (official docs)](https://docs.python.org/3/tutorial/)
-
 ## User Stories
-- As a user, I want see a welcome message.
+- As a user, I want to see a welcome message.
 - As a user, I want to be offered a chance to learn how to play.
-- As a user, I want to input my X/O choices based off of number placement.
+- As a user, I want to input my X/O choices based on number placement.
 - As a user, I want to know when I win.
 
 ### Functional Requirements:
@@ -32,15 +25,15 @@
 
 
 ## TO DO Features :
-Check for tie game
-Format player inputs, add colors, Red = X Blue = O
-Interactive:  Players can pay against one another online
-Validate Input so cannot make illegal moves
-When player wins, provide a gif
-Play again
-Render to production
-Build database to maintain records
-Create user login
+* Check for tie game
+* Format player inputs, add colors, Red = X Blue = O
+* Interactive:  Players can pay against one another online
+* Validate Input so cannot make illegal moves
+* When player wins, provide a gif
+* Play again functionality
+* Render to production
+* Build database to maintain records
+* Create user login
 
 Run this command in the terminal:
 
